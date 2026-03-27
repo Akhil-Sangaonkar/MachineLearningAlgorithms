@@ -1,0 +1,37 @@
+# Machine Learning From Scratch — Akhil Sangaonkar
+
+This repository contains **from-scratch implementations** of popular machine learning algorithms in Python. Each notebook is self-contained and follows a structured workflow: **mathematical derivation → implementation → experiments → conclusions**.  
+
+---
+
+
+## Notebook Workflow
+
+All notebooks follow the **same systematic approach**:
+
+1. **Problem Setup**  
+   Introduce the task (regression/classification) with definitions and datasets.  
+
+2. **Mathematical Derivation**  
+   Step-by-step explanation of the algorithm, including formulas and theoretical intuition.  
+
+3. **Implementation**  
+   Python code for the algorithm, written **from scratch** using `numpy`,`pandas` and `scipy`.  
+
+4. **Experiments**  
+   - Generate synthetic datasets or use sample data.  
+   - Evaluate the algorithm under different conditions or hyperparameters.  
+   - Measure performance metrics.  
+
+5. **Conclusion**  
+   Summarize key findings and observations from experiments.  
+
+---
+
+## Key Highlights
+
+- **No external ML libraries**: All algorithms are implemented from scratch.  
+- **Consistent structure**: Makes it easy to navigate between regression and classification algorithms.  
+- **Experiments included**: Each algorithm has illustrative experiments to validate theory in practice.  
+
+---
