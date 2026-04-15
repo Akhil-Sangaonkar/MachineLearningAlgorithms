@@ -3,8 +3,8 @@
 This repository contains **from-scratch implementations** of popular machine learning algorithms in Python. Each notebook is self-contained and follows a structured workflow: **mathematical derivation → implementation → experiments → conclusions**.  
 
 ---
-[!NOTE]
-Disclaimer: Some of the earlier implementations in this repository may be computationally inefficient. As I progress and refine my skills, newer code will prioritize better optimization and efficiency.
+> [!WARNING]
+> **Disclaimer:** Some of the earlier implementations in this repository may be computationally inefficient. As I progress and refine my skills, newer code will prioritize better optimization and efficiency.
 
 
 ## Notebook Workflow
