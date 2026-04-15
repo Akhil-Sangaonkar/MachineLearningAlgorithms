@@ -36,7 +36,7 @@ All notebooks follow the **same systematic approach**:
  ---
 
 
-## Important Information
+## 🚀 Important Information
 
 * **No external ML libraries**: All algorithms are implemented from scratch.  
 * **Consistent structure**: Makes it easy to navigate between regression and classification algorithms.  
