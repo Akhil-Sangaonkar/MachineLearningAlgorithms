@@ -1,4 +1,9 @@
 # Machine Learning From Scratch — Akhil Sangaonkar
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
 This repository contains **from-scratch implementations** of popular machine learning algorithms in Python. Each notebook is self-contained and follows a structured workflow: **mathematical derivation → implementation → experiments → conclusions**.  
 
